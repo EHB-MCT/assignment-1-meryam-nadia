@@ -1,4 +1,4 @@
-# Your project name
+# Smiski Time
 A short description of your project. 
 
 Next, read this example and adapt it to your project.
